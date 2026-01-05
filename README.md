@@ -71,8 +71,6 @@ Currently architecting a large-scale strategy card game in Unity, focusing on mo
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/guy-nevo-dev)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- ✍️ [Personal Blog/Portfolio Site](https://yourwebsite.com)
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
