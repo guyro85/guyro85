@@ -1,10 +1,13 @@
-# Hi there, I'm Guy! 👋
+<div align="center">
+  <img src="./Bigfoot%20Studios%20Logo.png" alt="Bigfoot Studios Logo" width="150" />
+  <h1>Hi there, I'm Guy! 👋</h1>
+  <h3>🚀 Game Developer | Founder of Bigfoot Studios</h3>
+</div>
 
-### 🚀 Game Developer
-
-Currently pursuing my degree in Computer Science, My technical foundation ranges from low-level Assembly and systems-level Java and Python to high-level game architecture in Unity. This 'under-the-hood' perspective allows me to write cleaner, more efficient C# scripts and optimized code.  
+Currently pursuing my degree in Computer Science. My technical foundation ranges from low-level Assembly and systems-level Java and Python to high-level game architecture in Unity. This 'under-the-hood' perspective allows me to write cleaner, more efficient C# scripts and optimized code.  
 Currently architecting a large-scale strategy card game in Unity, focusing on modular C# systems and scalable game logic.
 
+As the **Founder of Bigfoot Studios**, I lead the development of innovative and engaging game experiences, bringing creative visions to life from concept to deployment.
 ---
 
 ### 🛠️ My Tech Stack
