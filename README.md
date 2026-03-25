@@ -44,15 +44,7 @@ Currently architecting a large-scale strategy card game in Unity, focusing on mo
 
 * **Key Tech:** Unity, C#, Custom Data Structures.
 * **Challenge:** Implementing a scalable "Card Effect" system using decoupled C# logic.
-* **Links:** [📁 Repository](https://github.com/your-username/repo-name) | [📺 Video Demo](https://link-to-video.com)
-
-
-### 🏗️ In Development: 23 Galaxies
-> A sophisticated, large-scale strategy card game built in **Unity**. This project serves as my primary exploration into complex game-state management and modular software architecture.
-
-* **Key Tech:** Unity, C#, Custom Data Structures.
-* **Challenge:** Implementing a scalable "Card Effect" system using decoupled C# logic.
-* **Links:** [📁 Repository](https://github.com/your-username/repo-name) | [📺 Video Demo](https://link-to-video.com)
+* **Links:** [📁 Repository](https://github.com/guyro85/Element---Showcase.git) 
 
 ---
 
